@@ -1,0 +1,97 @@
+
+
+
+假如你是python 专家，完成遗下以下编程：
+1、设计一个客户端程序，页面分为 3行，
+2、第1行2列，第1列放个按钮，名称为“选择目录”，第2列放按钮，名称为“改名字”。按钮长度和名称文字长度一致，布局列表居中；
+
+3、第2行4列，第一列放置放置树状结构的文件目录管理器，第二列放置文件列表控件，第三列放图片预览控件。
+4、第3行1列，放文本控件
+5、程序启动后自动读取电脑上的文件目录加载到第二行第一列里面的文件目录管理器，并导航到程序当前目录；
+6、第一行点击“选择目录”按钮后弹出选择目录的窗口，选择确定目录后，确定第二行第一列的文件目录管理器的根节点
+7、第二行第一列中点击选择一个目录时，第二列显示这个目录下的所有文件；
+8、第二行第二列中点击选择一个文件时，如果是图片格式，第三列展示图片内容
+9、第一行点击“改名字”按钮后，识别第二行第二列中选择的图片的文字内容，显示到第3行的文本控件中，先输出文件名称，换行后显示识别的内容。
+10、第二行第二列的文件列表可以多选，点击“改名字”按钮后，将多选的的文件，逐个识别文字，显示到第2行的文本控件，先输出文件名称，换行后显示识别的内容。
+
+
+
+
+If you are a python expert, complete the following programming:
+1. Design a client program, the page is divided into 3 lines
+2. In the first row and two columns, put a button in the first column named "Select Directory", and put a button in the second column named "Rename". The length of the button is the same as the length of the text of the name, and the layout list is centered;
+3. The 2nd row and 4th column, the first column is used to place the tree structure file directory manager, the second column is used to place the file list control, and the third column is used to place the image preview control.
+4. In the third row and one column, put the text control
+5. After the program starts, it will automatically read the file directory on the computer and load it to the file directory manager in the second row and first column, and navigate to the current directory of the program;
+6. After clicking the "Select Directory" button on the first row, a window for selecting a directory will pop up. After selecting the directory, confirm the root node of the file directory manager in the first column of the second row
+7. When clicking to select a directory in the first column of the second row, the second column displays all files in this directory;
+8. When clicking to select a file in the second row and second column, if it is a picture format, the third column displays the picture content
+9. After clicking the "Rename" button on the first row, the text content of the picture selected in the second row and the second column will be recognized and displayed in the text control on the third row. The file name will be output first, and the recognized content will be displayed after the new line.
+10. The file list in the second row and the second column can be multi-selected. After clicking the "Rename" button, the multi-selected files will be recognized one by one and displayed in the text control on the second row. First output the file name, and then change the line Display the recognized content.
+
+
+
+
+假如你是python 专家，完成遗下以下编程：
+1、设计一个客户端程序，页面分为 2 列，
+2、第1列 放资源管理器，像windows上的资源管理器那样的
+3、第2列放文件列表，第一列选择了哪个目录，第二列就显示对应目录下的文件
+
+
+3、第2行4列，第一列放置放置树状结构的文件目录管理器，第二列放置文件列表控件，第三列放图片预览控件。
+4、第3行1列，放文本控件
+5、程序启动后自动读取电脑上的文件目录加载到第二行第一列里面的文件目录管理器，并导航到程序当前目录；
+6、第一行点击“选择目录”按钮后弹出选择目录的窗口，选择确定目录后，确定第二行第一列的文件目录管理器的根节点
+7、第二行第一列中点击选择一个目录时，第二列显示这个目录下的所有文件；
+8、第二行第二列中点击选择一个文件时，如果是图片格式，第三列展示图片内容
+9、第一行点击“改名字”按钮后，识别第二行第二列中选择的图片的文字内容，显示到第3行的文本控件中，先输出文件名称，换行后显示识别的内容。
+10、第二行第二列的文件列表可以多选，点击“改名字”按钮后，将多选的的文件，逐个识别文字，显示到第2行的文本控件，先输出文件名称，换行后显示识别的内容。
+
+
+
+    假如你是python 专家，完成遗下以下编程：
+    画一个窗口，纵向排列这些3个文本标签，文本标签名的标题是：票据标志、是否启用、票号长度，每个文本标签后面一个文本编辑框
+    
+        票据语言：ticket_lang  
+        票据标志：ticket_flag
+        启用标识：flag_inuse
+        票号长度：ticketno_len
+        起始行：ticket_head
+        结束行：ticketno_line
+        图片对比度：img_Contrast
+        调试模式：debuglevel
+        
+        
+        
+假如你是python 专家，完成遗下以下编程：
+1、设计一个客户端程序，界面上有1个按钮，一个图片框，一个文本框
+2、点击按钮可以选择一张图片，并在图片框中显示
+3、按住鼠标可以在图片上截图，然后在图片框显示截取后的图像
+4、识别图像上的问题，显示在文本框中
+
+
+假如你是python 专家，完成遗下以下编程：
+1、设计一个客户端程序，带有菜单，一个图片框，一个文本框
+2、第一个菜单名称为选择图片，点击可以选择一张图片，并在图片框中显示
+3、按住鼠标可以在图片上截图，然后在图片框显示截取后的图像
+4、识别图像上的文字，显示在文本框中
+
+
+假如你是python 专家，完成遗下以下编程：
+1，设计一个客户端程序
+2，第一行放置 按钮：选择目录，按钮：自动改名，按钮：自动识别，按钮：画框识别，按钮：行列显示，按钮：参数设置
+3，第二行放置 文本标签：”当前目录“，和一个很长的文本标签
+4、第三行放置 文本标签：”当前文件”，和一个很长的文本标签，文本标签：“票据好号码”，文本框，按钮：“改名”
+5、第四行放置 列表框，图片框
+请设计界面，保持对齐,用grid布局
+
+
+        
+
+
+
+
+        
+
+
+
